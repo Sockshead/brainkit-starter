@@ -43,14 +43,14 @@ BrainKit is your maintenance contract. Every month: a Brain Report auditing what
 
 If you've tried building a second brain before and it fell apart — this is for that.
 
-Not technical? [BrainKit Kickstart](https://brainkit.so) sets it up for you.
+Not technical? [BrainKit Kickstart](https://brainkit-landing.pages.dev) sets it up for you.
 
 ---
 
 ## Quick Start
 
 > **Not a developer?**
-> Skip steps 3–5. Book a [BrainKit Kickstart](https://brainkit.so) and Johannes configures your vault in a 60-min session — no terminal required.
+> Skip steps 3–5. Book a [BrainKit Kickstart](https://brainkit-landing.pages.dev) and Johannes configures your vault in a 60-min session — no terminal required.
 
 1. Fork this repo and clone it locally
 2. Open the folder in Obsidian (as a vault)
@@ -81,7 +81,7 @@ Send a voice note and it lands in your vault — routed, tagged, and ready — b
 
 The voice pipeline connects Telegram to Whisper transcription to vault filing. It runs locally on your Mac via a launchd background service.
 
-**Self-setup requires:** [Takopi](https://github.com/takopi), Whisper (local), launchd config. Full instructions in `VOICE_SETUP.md`. Or book a [Concierge plan](https://brainkit.so) and it's active from month 2 (Full Stack gets it on day 1).
+**Self-setup requires:** [Takopi](https://github.com/takopi), Whisper (local), launchd config. Full instructions in `VOICE_SETUP.md`. Or book a [Concierge plan](https://brainkit-landing.pages.dev) and it's active from month 2 (Full Stack gets it on day 1).
 
 ---
 
@@ -92,10 +92,10 @@ Keeping it current as your work evolves takes monthly discipline.
 
 **BrainKit** sets it up for you, and maintains it every month.
 
-→ [Kickstart — $297 one-time](https://brainkit.so) — Johannes configures your system, 60-min onboarding call, you own it.
-→ [Concierge — $247/mo](https://brainkit.so) — Full setup in month 1, monthly Brain Report + CLAUDE.md updates. Your AI gets smarter every month.
+→ [Kickstart — $197 intro](https://brainkit-landing.pages.dev) — Johannes configures your system, 60-min onboarding call, you own it.
+→ [Concierge — $247/mo](https://brainkit-landing.pages.dev) — Full setup in month 1, monthly Brain Report + CLAUDE.md updates. Your AI gets smarter every month.
 
-[Book a free discovery call →](https://brainkit.so/#booking)
+[Book a free discovery call →](https://brainkit-landing.pages.dev/#booking)
 
 ---
 
