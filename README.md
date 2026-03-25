@@ -31,7 +31,7 @@ A `CLAUDE.md` that works in month 1 stops working in month 3. Projects end. New 
 
 1. Fork this repo and clone it locally
 2. Open the folder in Obsidian (as a vault)
-3. Install Claude Code CLI: `npm install -g @anthropic-ai/claude-code`
+3. Install Claude Code CLI: `npm install -g @anthropic/claude-code`
 4. Edit `CLAUDE.md` with your name, projects, and routing rules
 
 ---
