@@ -1,0 +1,6 @@
+.obsidian/
+.DS_Store
+*.env
+.env
+secrets/
+.processed-ids.txt
